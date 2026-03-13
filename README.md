@@ -159,12 +159,12 @@ Based on the analysis, the following strategies may improve business performance
 * Monitor revenue trends to understand recent sales declines
 ---
 
-## 🔗 Project Files
+## Project Files
 
-📘 Python Analysis Notebook
+Python Analysis Notebook
 [View Notebook](notebook/Ecommerce-customer-analysis.ipynb) 
 
-📊 Power BI Dashboard
+Power BI Dashboard
 [Download Dashboard](dashboard/Ecommerce dashboard.pbix)
 ---
 

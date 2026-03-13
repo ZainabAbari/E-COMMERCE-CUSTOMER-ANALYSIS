@@ -82,9 +82,9 @@ Key visuals:
 
 ---
 
-### 2️⃣ Customer Behavior & Segmentation
+### 2️. Customer Behavior & Segmentation
 
-<img src="images/dashboard_page2.png" width="900"/>
+<img src="Ecommerce png 2.png" width="900"/>
 
 This page focuses on **customer activity and segmentation analysis**.
 
@@ -96,12 +96,11 @@ Key insights include:
 * Recency vs monetary value relationship
 
 This helps identify **high-value customers and potential churn risks**.
-
 ---
 
 ### 3️. Product & Sales Performance
 
-<img src="" width="900"/>
+<img src="Ecommerce png 3.png" width="900"/>
 
 This section analyzes product-level sales performance.
 
@@ -163,10 +162,10 @@ Based on the analysis, the following strategies may improve business performance
 ## 🔗 Project Files
 
 📘 Python Analysis Notebook
-[View Notebook](notebook/Ecommerce-customer-analysis.ipynb)
+[View Notebook](notebook/Ecommerce-customer-analysis.ipynb) 
 
 📊 Power BI Dashboard
-[Download Dashboard](dashboard/ecommerce_dashboard.pbix)
+[Download Dashboard](dashboard/Ecommerce dashboard.pbix)
 ---
 
 ## 🚀 Future Improvements
@@ -174,10 +173,7 @@ Potential enhancements include:
 * Customer Lifetime Value analysis
 * Predictive churn modeling
 * Product recommendation systems
-
 ---
 
 ##  Author
 Zainab Abari
-Data Analytics Portfolio Project
-Demonstrating an end-to-end workflow using **Python and Power BI**.

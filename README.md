@@ -64,7 +64,7 @@ The Power BI dashboard contains three analytical pages.
 
 ### 1️. Business Overview
 
-<img src="images/dashboard_page1.png" width="900"/> 
+<img src="Ecommerce png 1.png" width="900"/>
 
 This page provides a  summary of business performance.
 Key metrics include:

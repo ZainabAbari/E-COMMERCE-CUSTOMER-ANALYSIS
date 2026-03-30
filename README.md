@@ -64,7 +64,7 @@ The Power BI dashboard contains three analytical pages.
 
 ### 1️. Business Overview
 
-<img src="Ecommerce png 1.png" width="900"/>
+<img src="Ecommerce 1.png" width="900"/> 
 
 This page provides a  summary of business performance.
 Key metrics include:
@@ -84,7 +84,7 @@ Key visuals:
 
 ### 2️. Customer Behavior & Segmentation
 
-<img src="Ecommerce png 2.png" width="900"/>
+<img src="Ecommerce 2.png" width="900"/>
 
 This page focuses on **customer activity and segmentation analysis**.
 
@@ -100,7 +100,7 @@ This helps identify **high-value customers and potential churn risks**.
 
 ### 3️. Product & Sales Performance
 
-<img src="Ecommerce png 3.png" width="900"/>
+<img src="Ecommerce 3.png" width="900"/>
 
 This section analyzes product-level sales performance.
 
